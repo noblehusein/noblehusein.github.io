@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : "Xe/Xeir" # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Los Angeles, California"
   employer         : "GrayMatter Robotics"
