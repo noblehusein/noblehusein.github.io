@@ -1,11 +1,14 @@
 ---
 title: "Evolutionary Soft Robot Design"
-excerpt: "Developing soft robots that evolve to learn optimal movement patterns<br/><img src='/images/softrobot_main.jpg' width='500px' style='display:block; margin:auto;'>"
+excerpt: "Developing soft robots that evolve to learn optimal movement patterns<br/><img src='/images/evolcomp4.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 
 ## Project Overview
 Created a physics-based simulation environment to evolve soft robots that learn efficient locomotion patterns. The project focused on using genetic algorithms to optimize the movement parameters of a snake-like robot constructed from masses and springs.
+
+![Physics Simulation](/images/evolcomp1.png)
+*Custom Physics Engine Simulation*
 
 ## Technical Implementation
 - Built custom physics engine from scratch incorporating:
@@ -30,8 +33,6 @@ Created a physics-based simulation environment to evolve soft robots that learn 
 [![Final Demo](https://img.youtube.com/vi/qpDjqYMZHYc/0.jpg)](https://www.youtube.com/watch?v=qpDjqYMZHYc)
 
 ### Project Images
-![Physics Simulation](/images/evolcomp1.png)
-*Custom Physics Engine Simulation*
 
 ![Snake Robot](/images/evolcomp3.png)
 *Snake-like Robot Configuration with Mass-Spring System*
