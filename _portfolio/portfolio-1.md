@@ -21,27 +21,11 @@ Using a FANUC m710 industrial robot, we developed an automated system to carve H
 [View Video on linkedin](https://www.linkedin.com/posts/huseinnoble_manufacturing-ai-robotics-activity-7125149101880397825-qb7t?utm_source=share&utm_medium=member_desktop)
 
 ### Project Images
-![Robot Setup](/images/pumpkin_setup.jpg)
-*Robot Setup and Calibration*
+![Scanning](/images/pumpkinbot2.jpg)
+*Scanning*
 
-![Carving Process](/images/pumpkin_process.jpg)
+![Carving Process](/images/pumpkinbot3.png)
 *Carving in Progress*
 
-![Final Result](/images/pumpkin_final.jpg)
+![Final Result](/images/pumpkinbot1.png)
 *Final Carved Pumpkin*
-
-## Key Achievements
-- Successfully programmed complex carving patterns
-- Implemented precise depth control for varying pumpkin thickness
-- Developed safe operating procedures for unique application
-- Created engaging demonstration of industrial robotics capabilities
-
-## Challenges & Solutions
-- **Challenge**: Varying pumpkin thickness and density
-  - **Solution**: Implemented adaptive force control
-  
-- **Challenge**: Tool path optimization
-  - **Solution**: Created custom trajectory planning algorithms
-
-- **Challenge**: Safety considerations
-  - **Solution**: Developed comprehensive safety protocols and workspace monitoring
