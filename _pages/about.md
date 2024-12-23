@@ -7,26 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# Robotics Engineer
 
 I'm a Robotics Engineer with a Master's degree in Robotics and Control from Columbia University. Currently based in California, I've spent the last two years working with innovative robotics startups, developing cutting-edge solutions in the field of automation and robotics.
 
-## Technical Expertise
+In my current role at GrayMatter Robotics, I've worked accross the software stack. From software architecture to fundemental robotics problems in 2D/3D vision, path and trajectory planning, and AI research and integration.
 
-### Robotics & Computer Vision
-- Advanced 2D and 3D vision systems development
-- Point cloud processing and manipulation
-- Trajectory planning and optimization
+On the side I love reading up and learning about the latest advancements in robotics and AI. and working on personal projects about the same.
 
-### Software Development
-- Building scalable robotics software architectures
-- Real-time system implementation
-- Multi-threaded applications
-- ROS/ROS2 development
 
-### Artificial Intelligence
-- Machine learning integration in robotics systems
-- Computer vision and deep learning
-- AI-driven decision making systems
 
-[View My Projects](/projects/){: .btn .btn--primary .btn--large}

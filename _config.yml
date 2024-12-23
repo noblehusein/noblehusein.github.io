@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Robotics Software Engineer"
   location         : "Los Angeles, California"
   employer         : "GrayMatter Robotics"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : huseinnoble
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
