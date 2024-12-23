@@ -21,7 +21,7 @@ Using a FANUC m710 industrial robot, we developed an automated system to carve H
 [View Video on linkedin](https://www.linkedin.com/posts/huseinnoble_manufacturing-ai-robotics-activity-7125149101880397825-qb7t?utm_source=share&utm_medium=member_desktop)
 
 ### Project Images
-![Scanning](/images/pumpkinbot2.jpg)
+![Scanning](/images/pumpkinbot2.png)
 *Scanning*
 
 ![Carving Process](/images/pumpkinbot3.png)
