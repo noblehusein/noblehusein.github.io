@@ -50,17 +50,20 @@ In this project, we developed a quadruped robot from concept to completion, inco
 <style>
 .grid__wrapper {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1em;
-  margin-bottom: 2em;
+  grid-template-columns: repeat(2, minmax(400px, 1fr));
+  grid-gap: 2em;
+  margin: 2em auto;
+  max-width: 1200px;
 }
 
 .grid__item {
   text-align: center;
+  padding: 1em;
 }
 
 .gallery-image {
   width: 100%;
+  max-width: 500px;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -70,6 +73,7 @@ In this project, we developed a quadruped robot from concept to completion, inco
   margin-top: 0.5em;
   font-style: italic;
   color: #666;
+  font-size: 1.1em;
 }
 </style>
 
