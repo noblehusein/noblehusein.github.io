@@ -1,53 +1,60 @@
 ---
-title: "Quadruped Robot: Design, Build & Dance"
-excerpt: "A custom quadruped robot capable of walking, dancing, and mimicking human movements<br/><img src='/images/meehoyo1.jpg' width='500px' style='display:block; margin:auto;'>"
+title: "Robotic Pumpkin Carving with FANUC"
+excerpt: "Automated Halloween pumpkin carving using a FANUC industrial robot<br/><img src='/images/pumpkin_main.jpg' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
+
 ## Project Overview
-In this project, we developed a quadruped robot from concept to completion, incorporating advanced features like human movement mimicry and stability control. The project demonstrates end-to-end robotics development, including mechanical design, manufacturing, and software integration.
+This Halloween-themed project demonstrates industrial robot programming and control by using a FANUC robot to automatically carve a pumpkin. The project showcases the precision and versatility of industrial robots in unique applications.
 
-## Key Features
-- Custom-designed and 3D-printed chassis and components
-- Implemented walking and dancing gaits
-- IMU-based stabilization system
-- Raspberry Pi camera integration for visual inputs
+## Technical Implementation
+- Robot: FANUC [model number]
+- Tool: Custom end-effector for pumpkin carving
+- Programming: FANUC teach pendant programming
+- Path Planning: Custom trajectory generation for carving patterns
 
-## Development Process
-### Design & Manufacturing
-- Created detailed CAD models for all components
-- Optimized designs for 3D printing
-- Assembled custom components and electronics
+## Process Description
+1. **Setup & Calibration**
+   - Designed custom mounting system for pumpkin
+   - Calibrated tool center point (TCP)
+   - Implemented safety boundaries
 
-### Software Development
-- Developed gait control algorithms
-- Implemented dance movement patterns
-- Created computer vision system for movement recognition
-- Integrated IMU data for balance control
+2. **Path Planning**
+   - Created carving patterns
+   - Optimized cutting trajectories
+   - Implemented depth control
 
-## Results & Demonstrations
-
-### Image Gallery
-
-![CAD Design](/images/label_assembly.png)
-![Assembly Process](/images/meehoyo.JPG)
-![Final Robot-1](/images/robot1.png)
-![Final Robot-2](/images/robot2.png)
+3. **Execution**
+   - Real-time monitoring
+   - Speed and force control
+   - Pattern verification
 
 ### Project Videos
-📹 **Walking and Dancing Demonstration**  
-[View Video on Google Drive](https://drive.google.com/file/d/1CfJlvU03GI2VoA8PFUvZDIAKOWRQQkvY/view)
+📹 **Pumpkin Carving Process**  
+[View Video on Drive/YouTube](your_video_link_here)
 
-📹 **Build Process**  
-[View Video on YouTube](https://www.youtube.com/watch?v=515rTQ0bT1Q)
+### Project Images
+![Robot Setup](/images/pumpkin_setup.jpg)
+*Robot Setup and Calibration*
 
-## Technical Details
-- **Controller**: Raspberry Pi
-- **Sensors**: IMU, Camera Module
-- **Software**: OpenCV, Custom Gait Control algorithms: genetic algorithms, sinusoidal controls.
-- **Manufacturing**: 3D Printed Components
+![Carving Process](/images/pumpkin_process.jpg)
+*Carving in Progress*
 
-## Future Development
-- Enhanced movement mimicry capabilities
-- Advanced stability control
-- Additional dance routines
-- Improved human interaction features
+![Final Result](/images/pumpkin_final.jpg)
+*Final Carved Pumpkin*
+
+## Key Achievements
+- Successfully programmed complex carving patterns
+- Implemented precise depth control for varying pumpkin thickness
+- Developed safe operating procedures for unique application
+- Created engaging demonstration of industrial robotics capabilities
+
+## Challenges & Solutions
+- **Challenge**: Varying pumpkin thickness and density
+  - **Solution**: Implemented adaptive force control
+  
+- **Challenge**: Tool path optimization
+  - **Solution**: Created custom trajectory planning algorithms
+
+- **Challenge**: Safety considerations
+  - **Solution**: Developed comprehensive safety protocols and workspace monitoring
