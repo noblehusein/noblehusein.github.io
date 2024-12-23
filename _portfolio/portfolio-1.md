@@ -28,54 +28,10 @@ In this project, we developed a quadruped robot from concept to completion, inco
 
 ### Image Gallery
 
-<div class="grid__wrapper">
-  <div class="grid__item">
-    <img src="/images/label_assembly.png" alt="CAD Design" class="gallery-image">
-    <p class="caption">CAD Design</p>
-  </div>
-  <div class="grid__item">
-    <img src="/images/meehoyo.JPG" alt="Assembly Process" class="gallery-image">
-    <p class="caption">Assembly Process</p>
-  </div>
-  <div class="grid__item">
-    <img src="/images/robot1.png" alt="Final Robot Front View" class="gallery-image">
-    <p class="caption">Final Robot - Front View</p>
-  </div>
-  <div class="grid__item">
-    <img src="/images/robot2.png" alt="Final Robot Side View" class="gallery-image">
-    <p class="caption">Final Robot - Side View</p>
-  </div>
-</div>
-
-<style>
-.grid__wrapper {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(400px, 1fr));
-  grid-gap: 2em;
-  margin: 2em auto;
-  max-width: 1200px;
-}
-
-.grid__item {
-  text-align: center;
-  padding: 1em;
-}
-
-.gallery-image {
-  width: 100%;
-  max-width: 500px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
-.caption {
-  margin-top: 0.5em;
-  font-style: italic;
-  color: #666;
-  font-size: 1.1em;
-}
-</style>
+![CAD Design](/images/label_assembly.png)
+![Assembly Process](/images/meehoyo.JPG)
+![Final Robot-1](/images/robot1.png)
+![Final Robot-2](/images/robot2.png)
 
 ### Project Videos
 📹 **Walking and Dancing Demonstration**  
