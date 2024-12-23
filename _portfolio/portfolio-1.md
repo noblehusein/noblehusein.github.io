@@ -1,37 +1,24 @@
 ---
-title: "Robotic Pumpkin Carving with FANUC"
-excerpt: "Automated Halloween pumpkin carving using a FANUC industrial robot<br/><img src='/images/pumpkin_main.jpg' width='500px' style='display:block; margin:auto;'>"
+title: "Robotic Pumpkin Carving"
+excerpt: "Automated Halloween pumpkin carving using a industrial FANUC m710 robot, overkill? perhaps. <br/><img src='/images/pumpkinbot.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 
 ## Project Overview
-This Halloween-themed project demonstrates industrial robot programming and control by using a FANUC robot to automatically carve a pumpkin. The project showcases the precision and versatility of industrial robots in unique applications.
+Using a FANUC m710 industrial robot, we developed an automated system to carve Halloween pumpkins. The project combined 3D scanning, point cloud processing, and precise robot control to create an automated pumpkin carving solution.
 
-## Technical Implementation
-- Robot: FANUC [model number]
-- Tool: Custom end-effector for pumpkin carving
-- Programming: FANUC teach pendant programming
-- Path Planning: Custom trajectory generation for carving patterns
+## Implementation Details
+- Secured pumpkin using a custom-designed spoke holder for stability
+- Performed 3D scanning of the pumpkin surface
+- Processed scan data to isolate dark regions corresponding to eyes and mouth patterns
+- Generated optimized tool paths for the carved features
+- Conducted TCP (Tool Center Point) calibration for precise control
+- Experimented with various RPM settings to determine optimal milling depth
 
-## Process Description
-1. **Setup & Calibration**
-   - Designed custom mounting system for pumpkin
-   - Calibrated tool center point (TCP)
-   - Implemented safety boundaries
-
-2. **Path Planning**
-   - Created carving patterns
-   - Optimized cutting trajectories
-   - Implemented depth control
-
-3. **Execution**
-   - Real-time monitoring
-   - Speed and force control
-   - Pattern verification
 
 ### Project Videos
 📹 **Pumpkin Carving Process**  
-[View Video on Drive/YouTube](your_video_link_here)
+[View Video on linkedin](https://www.linkedin.com/posts/huseinnoble_manufacturing-ai-robotics-activity-7125149101880397825-qb7t?utm_source=share&utm_medium=member_desktop)
 
 ### Project Images
 ![Robot Setup](/images/pumpkin_setup.jpg)
