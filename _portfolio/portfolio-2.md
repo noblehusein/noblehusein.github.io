@@ -1,61 +1,27 @@
 ---
-title: "Quadruped Robot: Design, Build & Dance"
-excerpt: "A custom quadruped robot capable of walking, dancing, and mimicking human movements<br/><img src='/images/meehoyo1.jpg' width='500px' style='display:block; margin:auto;'>"
+title: "Automated Christmas Tree Decoration Robot"
+excerpt: "Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree_main.jpg' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 ## Project Overview
-In this project, we developed a quadruped robot from concept to completion, incorporating advanced features like human movement mimicry and stability control. The project demonstrates end-to-end robotics development, including mechanical design, manufacturing, and software integration.
+Developed an automated system for decorating Christmas trees using industrial robotics. The project combined 3D scanning, geometric path planning, and precise robot control to wrap garlands around a tree in a helical pattern.
 
-## Introducing Meehoyo
-
-[![Video Title](https://img.youtube.com/vi/3s58XccAwgQ/0.jpg)](https://www.youtube.com/watch?v=3s58XccAwgQ)
-
-## Key Features
-- Custom-designed and 3D-printed chassis and components
-- Implemented walking and dancing gaits
-- IMU-based stabilization system
-- Raspberry Pi camera integration for visual inputs
-
-## Development Process
-### Design & Manufacturing
-- Created detailed CAD models for all components
-- Optimized designs for 3D printing
-- Assembled custom components and electronics
-
-## Exploded View of the robot design
-
-[![Robot Video](https://img.youtube.com/vi/515rTQ0bT1Q/0.jpg)](https://www.youtube.com/watch?v=515rTQ0bT1Q)
-
-### Software Development
-- Developed gait control algorithms
-- Implemented dance movement patterns
-- Created computer vision system for movement recognition
-- Integrated IMU data for balance control
-
-## Results & Demonstrations
-
-### Image Gallery
-
-| | |
-|:-------------------------:|:-------------------------:|
-|![CAD Design](/images/label_assembly.png)|![Assembly Process](/images/meehoyo.JPG)|
-|![Final Robot-1](/images/robot1.png)|![Final Robot-2](/images/robot2.png)|
+## Technical Implementation
+- Designed custom roller fixture to rotate the tree
+- Created 3D scanning setup to capture tree geometry.
+- estimated the tree's conical shape and generated motion path and robot trajectory.
+- scavenged makeshift end effector from a 3D printer to hold the garland
 
 ### Project Videos
-📹 **Walking and Dancing Demonstration**  
-[View Video on Google Drive](https://drive.google.com/file/d/1CfJlvU03GI2VoA8PFUvZDIAKOWRQQkvY/view)
+📹 **Tree Decoration Process**  
+[View Video on Linkedin](https://www.linkedin.com/posts/graymatter-robotics_christmas-manufacturing-ai-activity-7277389012019900416--8Ur?utm_source=share&utm_medium=member_desktop)
 
-📹 **Build Process**  
-[View Video on YouTube](https://www.youtube.com/watch?v=515rTQ0bT1Q)
+### Project Images
+![Setup](/images/tree_setup.jpg)
+*Tree Mounting and Scanning Setup*
 
-## Technical Details
-- **Controller**: Raspberry Pi
-- **Sensors**: IMU, Camera Module
-- **Software**: OpenCV, Custom Gait Control algorithms: genetic algorithms, sinusoidal controls.
-- **Manufacturing**: 3D Printed Components
+![Path Planning](/images/tree_planning.png)
+*Conical Path Generation*
 
-## Future Development
-- Enhanced movement mimicry capabilities
-- Advanced stability control
-- Additional dance routines
-- Improved human interaction features
+[![Final Result](/images/tree_attempt1.png)](/images/tree_attempt1.mp4)
+*Final Decorated Tree Video*

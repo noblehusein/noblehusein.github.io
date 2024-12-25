@@ -1,41 +1,61 @@
 ---
-title: "Evolutionary Soft Robot Design"
-excerpt: "Developing soft robots that evolve to learn optimal movement patterns<br/><img src='/images/evolcomp4.png' width='500px' style='display:block; margin:auto;'>"
+title: "Quadruped Robot: Design, Build & Dance"
+excerpt: "A custom quadruped robot capable of walking, dancing, and mimicking human movements<br/><img src='/images/meehoyo1.jpg' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
-
 ## Project Overview
-Created a physics-based simulation environment to evolve soft robots that learn efficient locomotion patterns. The project focused on using genetic algorithms to optimize the movement parameters of a snake-like robot constructed from masses and springs.
+In this project, we developed a quadruped robot from concept to completion, incorporating advanced features like human movement mimicry and stability control. The project demonstrates end-to-end robotics development, including mechanical design, manufacturing, and software integration.
 
-![Physics Simulation](/images/evolcomp1.png)
-*Custom Physics Engine Simulation*
+## Introducing Meehoyo
 
-## Technical Implementation
-- Built custom physics engine from scratch incorporating:
-  - Gravity simulation
-  - Damping effects
-  - Friction modeling
-- Designed snake-like robot using mass-spring system
-- Implemented evolutionary algorithm to optimize:
-  - Spring constants (K)
-  - Oscillation frequency (omega)
-  - Phase differences (phi)
+[![Video Title](https://img.youtube.com/vi/3s58XccAwgQ/0.jpg)](https://www.youtube.com/watch?v=3s58XccAwgQ)
+
+## Key Features
+- Custom-designed and 3D-printed chassis and components
+- Implemented walking and dancing gaits
+- IMU-based stabilization system
+- Raspberry Pi camera integration for visual inputs
+
+## Development Process
+### Design & Manufacturing
+- Created detailed CAD models for all components
+- Optimized designs for 3D printing
+- Assembled custom components and electronics
+
+## Exploded View of the robot design
+
+[![Robot Video](https://img.youtube.com/vi/515rTQ0bT1Q/0.jpg)](https://www.youtube.com/watch?v=515rTQ0bT1Q)
+
+### Software Development
+- Developed gait control algorithms
+- Implemented dance movement patterns
+- Created computer vision system for movement recognition
+- Integrated IMU data for balance control
+
+## Results & Demonstrations
+
+### Image Gallery
+
+| | |
+|:-------------------------:|:-------------------------:|
+|![CAD Design](/images/label_assembly.png)|![Assembly Process](/images/meehoyo.JPG)|
+|![Final Robot-1](/images/robot1.png)|![Final Robot-2](/images/robot2.png)|
 
 ### Project Videos
+📹 **Walking and Dancing Demonstration**  
+[View Video on Google Drive](https://drive.google.com/file/d/1CfJlvU03GI2VoA8PFUvZDIAKOWRQQkvY/view)
 
-#### 📹 Evolution Process and Final Results
-[![Evolution Process Video](https://img.youtube.com/vi/B1vb4VorwGw/0.jpg)](https://www.youtube.com/watch?v=B1vb4VorwGw)
+📹 **Build Process**  
+[View Video on YouTube](https://www.youtube.com/watch?v=515rTQ0bT1Q)
 
-#### 📹 Robot Movement Demonstration
-[![Robot Movement](https://img.youtube.com/vi/FNHo1i5S-x8/0.jpg)](https://www.youtube.com/watch?v=FNHo1i5S-x8)
+## Technical Details
+- **Controller**: Raspberry Pi
+- **Sensors**: IMU, Camera Module
+- **Software**: OpenCV, Custom Gait Control algorithms: genetic algorithms, sinusoidal controls.
+- **Manufacturing**: 3D Printed Components
 
-#### 📹 Final Demonstration
-[![Final Demo](https://img.youtube.com/vi/qpDjqYMZHYc/0.jpg)](https://www.youtube.com/watch?v=qpDjqYMZHYc)
-
-### Project Images
-
-![Snake Robot](/images/evolcomp3.png)
-*Snake-like Robot Configuration with Mass-Spring System*
-
-![Evolution Results](/images/evolcomp2.png)
-*Optimization Results Showing Movement Evolution*
+## Future Development
+- Enhanced movement mimicry capabilities
+- Advanced stability control
+- Additional dance routines
+- Improved human interaction features
