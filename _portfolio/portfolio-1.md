@@ -1,6 +1,6 @@
 ---
 title: "Automated Christmas Tree Decoration Robot"
-excerpt: "GrayMatter Robotics | Dec 2024<br/>Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree1.png' width='500px' style='display:block; margin:auto;'>"
+excerpt: "<small>GrayMatter Robotics | Dec 2024</small><br/><br/>Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree1.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 ## Project Overview
@@ -24,4 +24,4 @@ Developed an automated system for decorating Christmas trees using industrial ro
 *Conical Path Generation*
 
 ![Final Result](/images/tree_simulation.png)
-*Final Decorated Tree Video*
+*tree simulation*
