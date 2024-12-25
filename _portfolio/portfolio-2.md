@@ -1,6 +1,6 @@
 ---
 title: "Robotic Pumpkin Carving"
-excerpt: "GrayMatter Robotics | Oct 2023<br/>Automated Halloween pumpkin carving using a industrial FANUC m710 robot, overkill? perhaps. <br/><img src='/images/pumpkinbot.png' width='500px' style='display:block; margin:auto;'>"
+excerpt: "Automated Halloween pumpkin carving using a industrial FANUC m710 robot, overkill? perhaps. <br/><img src='/images/pumpkinbot.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 
