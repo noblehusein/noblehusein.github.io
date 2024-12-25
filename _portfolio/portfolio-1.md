@@ -1,7 +1,6 @@
 ---
 title: "Automated Christmas Tree Decoration Robot"
-subtitle: "GrayMatter Robotics | Dec 2024"
-excerpt: "Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree1.png' width='500px' style='display:block; margin:auto;'>"
+excerpt: "GrayMatter Robotics | Dec 2024<br/>Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree1.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
 ## Project Overview
