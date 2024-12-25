@@ -4,9 +4,9 @@ collection: publications
 category: patents
 permalink: /publication/2023-04-18-methods-for-replacing-sanding-pad
 excerpt: 'Brief description of the patent'
-date: YYYY-MM-DDx
+date: 2023-04-18
 venue: 'US Patent Office'
-paperurl: 'Link to patent if available'
+paperurl: 'https://patents.google.com/patent/US11820017B1/en'
 citation: 'Your Name. (YYYY). &quot;Patent Title 1.&quot; US Patent Number XXXXXXX.'
 ---
 
