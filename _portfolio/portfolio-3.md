@@ -1,5 +1,6 @@
 ---
 title: "Quadruped Robot: Design, Build & Dance"
+subtitle: "Columbia University | Dec 2021"
 excerpt: "A custom quadruped robot capable of walking, dancing, and mimicking human movements<br/><img src='/images/meehoyo1.jpg' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---

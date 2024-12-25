@@ -1,5 +1,6 @@
 ---
 title: "Evolutionary Soft Robot Design"
+subtitle: "Columbia University | Dec 2021"
 excerpt: "Developing soft robots that evolve to learn optimal movement patterns<br/><img src='/images/evolcomp4.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---

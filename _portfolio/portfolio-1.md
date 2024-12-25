@@ -1,31 +1,28 @@
 ---
-title: "Robotic Pumpkin Carving"
-excerpt: "Automated Halloween pumpkin carving using a industrial FANUC m710 robot, overkill? perhaps. <br/><img src='/images/pumpkinbot.png' width='500px' style='display:block; margin:auto;'>"
+title: "Automated Christmas Tree Decoration Robot"
+subtitle: "GrayMatter Robotics | Dec 2024"
+excerpt: "Robotic system for automated garland placement using 3D scanning and trajectory planning<br/><img src='/images/tree1.png' width='500px' style='display:block; margin:auto;'>"
 collection: portfolio
 ---
-
 ## Project Overview
-Using a FANUC m710 industrial robot, we developed an automated system to carve Halloween pumpkins. The project combined 3D scanning, point cloud processing, and precise robot control to create an automated pumpkin carving solution.
+Developed an automated system for decorating Christmas trees using industrial robotics. The project combined 3D scanning, geometric path planning, and precise robot control to wrap garlands around a tree in a helical pattern.
 
-## Implementation Details
-- Secured pumpkin using a custom-designed spoke holder for stability
-- Performed 3D scanning of the pumpkin surface
-- Processed scan data to isolate dark regions corresponding to eyes and mouth patterns
-- Generated optimized tool paths for the carved features
-- Conducted TCP (Tool Center Point) calibration for precise control
-- Experimented with various RPM settings to determine optimal milling depth
-
+## Technical Implementation
+- Designed custom roller fixture to rotate the tree
+- Created 3D scanning setup to capture tree geometry.
+- estimated the tree's conical shape and generated motion path and robot trajectory.
+- scavenged makeshift end effector from a 3D printer to hold the garland
 
 ### Project Videos
-📹 **Pumpkin Carving Process**  
-[View Video on linkedin](https://www.linkedin.com/posts/huseinnoble_manufacturing-ai-robotics-activity-7125149101880397825-qb7t?utm_source=share&utm_medium=member_desktop)
+📹 **Final video**  
+[View Video on Linkedin](https://www.linkedin.com/posts/graymatter-robotics_christmas-manufacturing-ai-activity-7277389012019900416--8Ur?utm_source=share&utm_medium=member_desktop)
 
 ### Project Images
-![Scanning](/images/pumpkinbot2.png)
-*Scanning*
+![Setup](/images/tree_setup.jpg)
+*Tree Mounting and Scanning Setup*
 
-![Carving Process](/images/pumpkinbot3.png)
-*Carving in Progress*
+![Path Planning](/images/tree_planning.png)
+*Conical Path Generation*
 
-![Final Result](/images/pumpkinbot1.png)
-*Final Carved Pumpkin*
+![Final Result](/images/tree_simulation.png)
+*Final Decorated Tree Video*
