@@ -10,8 +10,9 @@ paperurl: 'https://patents.google.com/patent/US11820017B1/en'
 citation: 'Your Name. (YYYY). &quot;Patent Title 1.&quot; US Patent Number XXXXXXX.'
 ---
 
-Brief description of the patent and its significance.
+Developed software systems for automated sanding pad replacement and detection at GrayMatter Robotics, which was granted US Patent No. 11,820,017-B1. Key contributions included:
 
-[Download patent here](patent_url_here)
+- Setting up the software stack to control robotic motions during sanding pad replacement operations
+- Creating detection models to monitor pad wear and determine replacement timing
 
-Recommended citation: Your Name. (YYYY). "Patent Title 1." US Patent Number XXXXXXX.
+
