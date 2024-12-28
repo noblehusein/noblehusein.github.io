@@ -4,7 +4,7 @@ collection: experience
 type: "Professional Experience"
 permalink: /teaching/2023-10-01-graymatter-experience.md
 venue: "GrayMatter Robotics"
-date: 2023-01-01
+date: 2023-01-28
 location: "Los Angeles, California"
 ---
 
