@@ -2,7 +2,7 @@
 title: "GrayMatter Robotics Experience"
 collection: experience
 type: "Professional Experience"
-permalink: /teaching/2023-10-01-graymatter-experience.md
+permalink: /experience/2023-10-01-graymatter-experience.md
 venue: "GrayMatter Robotics"
 date: 2023-01-28
 location: "Los Angeles, California"
@@ -14,10 +14,10 @@ location: "Los Angeles, California"
 **Duration:** January 2023 - Present  
 
 #### Vision Systems & AI Development
-- Created custom denoising filters for 3D point cloud data allowing for smoother path and trajectory planning.
-- Set up of inspection robot: involving creating a custom C++ ROS node that integrated inhouse software nodes of path & trajectory planers with software nodes of external partners @University of Washington, in a dual robot setup, handling image capture and classification.
+- Created custom denoising filters for 3D point cloud data allowing for smoother path and trajectory planning
+- Set up of inspection robot: involving creating a custom C++ ROS node that integrated inhouse software nodes of path & trajectory planners with software nodes of external partners @University of Washington, in a dual robot setup, handling image capture and classification
 - Developed and deployed a CNN-based detection system for sandpaper monitoring with 100k+ images, implementing transfer learning techniques to achieve robust performance across different deployment sites
-- Researched into advanced classification methods including Vision Transformers, VLMs and multi-input models for enhancing accuracy.
+- Researched into advanced classification methods including Vision Transformers, VLMs and multi-input models for enhancing accuracy
 
 #### Software Architecture & System Integration
 - Redesigned ROS architecture for automated sandpaper replacement system, enabling modular integration of multiple sandpaper types and detection models
