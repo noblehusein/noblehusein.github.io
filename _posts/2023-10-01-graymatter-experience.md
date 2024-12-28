@@ -1,6 +1,6 @@
 ---
 title: "GrayMatter Robotics Experience"
-collection: teaching
+collection: experience
 type: "Professional Experience"
 permalink: /teaching/2023-10-01-graymatter-experience.md
 venue: "GrayMatter Robotics"
