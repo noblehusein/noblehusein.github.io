@@ -1,7 +1,11 @@
 ---
-title: "GrayMatter Robotics"
-categories: experience
-tags: [robotics, computer vision, AI, motion planning]
+title: "GrayMatter Robotics Experience"
+collection: teaching
+type: "Professional Experience"
+permalink: /teaching/2023-10-01-graymatter-experience.md
+venue: "GrayMatter Robotics"
+date: 2023-01-01
+location: "Los Angeles, California"
 ---
 
 ### GrayMatter Robotics
