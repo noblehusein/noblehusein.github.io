@@ -2,7 +2,7 @@
 title: "Bovi Robotics Experience"
 collection: teaching
 type: "Professional Experience"
-permalink: /teaching/2022-05-01-bovi-experience.md
+permalink: /teaching/2022-05-01-bovi-experience
 venue: "Bovi Robotics"
 date: 2022-05-01
 location: "Sacramento, California"
