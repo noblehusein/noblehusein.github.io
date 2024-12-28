@@ -1,9 +1,8 @@
 ---
 title: "GrayMatter Robotics Experience"
-layout: single
-collection: experience
+collection: teaching
 type: "Professional Experience"
-permalink: /experience/2023-10-01-graymatter-experience.md
+permalink: /teaching/2023-10-01-graymatter-experience.md
 venue: "GrayMatter Robotics"
 date: 2023-01-28
 location: "Los Angeles, California"
