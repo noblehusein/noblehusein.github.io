@@ -1,5 +1,6 @@
 ---
 title: "GrayMatter Robotics Experience"
+layout: single
 collection: experience
 type: "Professional Experience"
 permalink: /experience/2023-10-01-graymatter-experience.md
