@@ -1,31 +1,30 @@
 ---
 title: "GrayMatter Robotics"
-date: 2023-10-01
 categories: experience
-tags: [robotics, software engineering, AI]
+tags: [robotics, computer vision, AI, motion planning]
 ---
 
 ### GrayMatter Robotics
-
 **Role:** Robotics Software Engineer  
 **Location:** Los Angeles, California  
-**Duration:** January 2023 - Present
+**Duration:** January 2023 - Present  
 
-**Key Accomplishments:**
-- Led development of automated sanding pad replacement and detection systems, resulting in US Patent No. 11,820,017-B1
-- Architected and implemented comprehensive robotic cell health monitoring system (Patent Application No. 18/916,350)
-- Designed data recording pipeline for various robotic finishing processes including sanding, painting, polishing, and grinding
-- Built robust data upload infrastructure to track process health metrics across finishing operations
+#### Vision Systems & AI Development
+- Created custom denoising filters for 3D point cloud data allowing for smoother path and trajectory planning.
+- Set up of inspection robot: involving creating a custom C++ ROS node that integrated inhouse software nodes of path & trajectory planers with software nodes of external partners @University of Washington, in a dual robot setup, handling image capture and classification.
+- Developed and deployed a CNN-based detection system for sandpaper monitoring with 100k+ images, implementing transfer learning techniques to achieve robust performance across different deployment sites
+- Researched into advanced classification methods including Vision Transformers, VLMs and multi-input models for enhancing accuracy.
 
-**Technical Contributions:**
-- Developed computer vision algorithms for 2D/3D perception and process monitoring
-- Created path planning and trajectory optimization systems for robotic arms
-- Implemented AI/ML models for process control and quality inspection
-- Set up software architecture for robotic motion control during automated operations
-- Built detection models to monitor tool wear and determine maintenance timing
+#### Software Architecture & System Integration
+- Redesigned ROS architecture for automated sandpaper replacement system, enabling modular integration of multiple sandpaper types and detection models
+- Architected a comprehensive data recording system for multi-node ROS environments, enabling real-time monitoring via Formant Platform integration
+- Led refactoring initiatives for segmentation nodes to improve scalability and usability for application engineers
+- Contributed to US Patent No. 11,820,017-B1 for innovative methods in robotic tool tracking and replacement
 
-**Impact:**
-- Reduced system downtime by 35% through predictive maintenance capabilities
-- Improved process reliability by implementing comprehensive health monitoring
-- Streamlined operations by automating manual tool replacement procedures
-- Enhanced quality control through AI-powered inspection systems
+#### Motion Planning & Optimization
+- Enhanced collision detection systems using NVIDIA PhysX and Isaac Sim, implementing geometric primitive setup and GJK query pipeline
+- Optimized performance through multi-threaded collision checking across planner nodes
+- Improved trajectory generation algorithms to reduce cycle time between multiple passes
+
+#### Miscellaneous Projects
+- Led development of special projects including an innovative robotic pumpkin carving, Christmas tree decorating.
